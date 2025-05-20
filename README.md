@@ -65,5 +65,5 @@ This repository contains solutions for **Machine Learning Assignment 1**, consis
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Maham** – Machine Learning Assignment for academic submission.
